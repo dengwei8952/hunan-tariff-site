@@ -4,7 +4,7 @@ name: Telecom & GB Fetch
 
 on:
   schedule:
-    - cron: "17 1,13 * * *"    # 北京 09:17 / 21:17
+    - cron: "17 1,7,13,19 * * *"   # 北京 03:17/09:17/15:17/21:17（每6小时）
   workflow_dispatch:
     inputs:
       mode:
@@ -62,12 +62,6 @@ jobs:
           FOCUS="${{ github.event.inputs.focus_provs }}"
           [ -n "$FOCUS" ] || FOCUS="${{ vars.FOCUS_PROVS }}"
           [ -n "$FOCUS" ] || FOCUS="hunan,guangdong"
-          # 兜底：每周日跑一次全量，避免 focus 模式下其余省份永远不更新
-          DOW=$(date -u +%u)
-          if [ "$DOW" = "7" ]; then
-            echo "（周日）强制全量"
-            MODE="full"
-          fi
           GB_SCOPE=""
           if [ "$MODE" = "focus" ]; then
             GB_SCOPE="--scopes quanguo,$FOCUS"
