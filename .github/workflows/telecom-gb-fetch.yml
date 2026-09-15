@@ -63,10 +63,11 @@ jobs:
           [ -n "$FOCUS" ] || FOCUS="${{ vars.FOCUS_PROVS }}"
           [ -n "$FOCUS" ] || FOCUS="hunan,guangdong"
           GB_SCOPE=""
-          # 每周日全量抓取（北京时间），平时仅湖南+全网
+          # 每周日凌晨那一轮全量抓取全网，其余轮次（含周日的其他轮）仅湖南+全网
           DOW=$(TZ=Asia/Shanghai date +%u)
-          if [ "$DOW" = "7" ]; then
-            echo "（周日）强制全量"
+          HOUR=$(TZ=Asia/Shanghai date +%H)
+          if [ "$DOW" = "7" ] && [ "$HOUR" -lt 4 ]; then
+            echo "（周日凌晨）强制全量"
             MODE="full"
           fi
           if [ "$MODE" = "focus" ]; then
