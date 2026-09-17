@@ -90015,5 +90015,292 @@
       "removed_names": [],
       "modified_names": []
     }
+  },
+  {
+    "ts": "2026-09-17 14:57:19",
+    "quanguo": {
+      "added": 1,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [
+        "中国移动咪咕悦看0元30GB定向流量包"
+      ],
+      "removed_names": [],
+      "modified_names": [],
+      "added_details": {
+        "中国移动咪咕悦看0元30GB定向流量包": {
+          "资费标准": "0元/月",
+          "方案编号": "25JT213991",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "全网用户",
+          "适用地区": "000",
+          "销售渠道": "线上可通过咪咕悦看活动页面领取；线下能否办理以营业厅口径为准。",
+          "上线日期": "2025年8月6日",
+          "下线日期": "2026年12月31日",
+          "有效期限": "1个月（自然）",
+          "在网要求": "无",
+          "退订方式": "所属省份10086热线、当地中国移动营业厅、中国移动App",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "30GB",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "中国移动咪咕悦看0元30GB定向流量包，用户订购后，可享受每月30GB咪咕悦看定向流量，话费支付，0元/月。产品订购后，立即生效，订购当月有效。",
+          "超出资费说明": "",
+          "其他服务内容": "中国移动咪咕悦看0元30GB定向流量包，用户订购后，可享受每月30GB咪咕悦看定向流量，话费支付，0元/月。产品订购后，立即生效，订购当月有效。河南地区入网时长在185天以内的用户不可办理该产品。",
+          "其他说明": ""
+        }
+      }
+    },
+    "anhui": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "beijing": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "chongqing": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "fujian": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "gansu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guangdong": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guangxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guizhou": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hainan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hebei": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "heilongjiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "henan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hubei": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hunan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "jiangsu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "jiangxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "jilin": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "liaoning": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "neimenggu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "ningxia": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "qinghai": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shaanxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shandong": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shanghai": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shanxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "sichuan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "tianjin": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "xinjiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "xizang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "yunnan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "zhejiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    }
   }
 ]
