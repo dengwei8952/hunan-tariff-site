@@ -94356,5 +94356,383 @@
       "removed_names": [],
       "modified_names": []
     }
+  },
+  {
+    "ts": "2026-09-19 20:58:12",
+    "quanguo": {
+      "added": 0,
+      "removed": 0,
+      "modified": 2,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": [
+        "双星融合月包19元",
+        "双星融合月包29元"
+      ],
+      "modified_details": {
+        "双星融合月包19元": [
+          {
+            "field": "适用地区",
+            "from": "安徽、北京、重庆、福建、河南、河北、海南、黑龙江、湖南、江西、辽宁、宁夏、青海、山东、上海、陕西、山西、天津、新疆、西藏、云南、浙江",
+            "to": "安徽、北京、重庆、福建、广东、河南、湖北、河北、海南、黑龙江、湖南、江西、辽宁、内蒙古、宁夏、青海、山东、上海、陕西、山西、天津、新疆、西藏、云南、浙江"
+          }
+        ],
+        "双星融合月包29元": [
+          {
+            "field": "适用地区",
+            "from": "安徽、北京、重庆、福建、河南、河北、海南、黑龙江、湖南、江西、辽宁、宁夏、青海、山东、上海、陕西、山西、天津、新疆、西藏、云南、浙江",
+            "to": "安徽、北京、重庆、福建、广东、河南、湖北、河北、海南、黑龙江、湖南、江西、辽宁、内蒙古、宁夏、青海、山东、上海、陕西、山西、天津、新疆、西藏、云南、浙江"
+          }
+        ]
+      },
+      "modified_before": {
+        "双星融合月包19元": {
+          "资费标准": "19元/月",
+          "方案编号": "26JT200488",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "全网用户",
+          "适用地区": "安徽、北京、重庆、福建、河南、河北、海南、黑龙江、湖南、江西、辽宁、宁夏、青海、山东、上海、陕西、山西、天津、新疆、西藏、云南、浙江",
+          "销售渠道": "线下、线上、短信渠道",
+          "上线日期": "2026年6月15日",
+          "下线日期": "2028年12月31日",
+          "有效期限": "有效期3年，如双方在有效期届满前无异议，有效期自动续展，每次续展3年。",
+          "在网要求": "无",
+          "退订方式": "中国移动APP，10086，营业厅",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "",
+          "超出资费说明": "",
+          "其他服务内容": "产品订购后立即生效，含10条北斗短信和天通卫星2分钟国内（不含中国港澳台地区）主被叫通话，赠送北斗守护月包。超出资费，北斗短信：2元/条；天通语音资费:拨打国内电话：9元/分钟，拨打中国港澳台地区电话：9元/分钟，拨打国际长途：20元/分钟，拨打国际卫星电话：50元/分钟，国内接听：9元/分钟,天通卫星短信5元/条。支持退订，退订立即失效。赠送北斗守护月包随双星融合月包同步失效。",
+          "其他说明": ""
+        },
+        "双星融合月包29元": {
+          "资费标准": "29元/月",
+          "方案编号": "26JT200487",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "全网用户",
+          "适用地区": "安徽、北京、重庆、福建、河南、河北、海南、黑龙江、湖南、江西、辽宁、宁夏、青海、山东、上海、陕西、山西、天津、新疆、西藏、云南、浙江",
+          "销售渠道": "线下、线上、短信渠道",
+          "上线日期": "2026年6月15日",
+          "下线日期": "2028年12月31日",
+          "有效期限": "有效期3年，如双方在有效期届满前无异议，有效期自动续展，每次续展3年。",
+          "在网要求": "无",
+          "退订方式": "中国移动APP，10086，营业厅",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "",
+          "超出资费说明": "",
+          "其他服务内容": "产品订购后立即生效，含30条北斗短信和天通卫星2分钟国内（不含中国港澳台地区）主被叫通话，赠送北斗守护月包。超出资费，北斗短信：2元/条；天通语音资费:拨打国内电话：9元/分钟，拨打中国港澳台地区电话：9元/分钟，拨打国际长途：20元/分钟，拨打国际卫星电话：50元/分钟，国内接听：9元/分钟,天通卫星短信5元/条。支持退订，退订立即失效。赠送北斗守护月包随双星融合月包同步失效。",
+          "其他说明": ""
+        }
+      },
+      "modified_after": {
+        "双星融合月包19元": {
+          "资费标准": "19元/月",
+          "方案编号": "26JT200488",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "全网用户",
+          "适用地区": "安徽、北京、重庆、福建、广东、河南、湖北、河北、海南、黑龙江、湖南、江西、辽宁、内蒙古、宁夏、青海、山东、上海、陕西、山西、天津、新疆、西藏、云南、浙江",
+          "销售渠道": "线下、线上、短信渠道",
+          "上线日期": "2026年6月15日",
+          "下线日期": "2028年12月31日",
+          "有效期限": "有效期3年，如双方在有效期届满前无异议，有效期自动续展，每次续展3年。",
+          "在网要求": "无",
+          "退订方式": "中国移动APP，10086，营业厅",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "",
+          "超出资费说明": "",
+          "其他服务内容": "产品订购后立即生效，含10条北斗短信和天通卫星2分钟国内（不含中国港澳台地区）主被叫通话，赠送北斗守护月包。超出资费，北斗短信：2元/条；天通语音资费:拨打国内电话：9元/分钟，拨打中国港澳台地区电话：9元/分钟，拨打国际长途：20元/分钟，拨打国际卫星电话：50元/分钟，国内接听：9元/分钟,天通卫星短信5元/条。支持退订，退订立即失效。赠送北斗守护月包随双星融合月包同步失效。",
+          "其他说明": ""
+        },
+        "双星融合月包29元": {
+          "资费标准": "29元/月",
+          "方案编号": "26JT200487",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "全网用户",
+          "适用地区": "安徽、北京、重庆、福建、广东、河南、湖北、河北、海南、黑龙江、湖南、江西、辽宁、内蒙古、宁夏、青海、山东、上海、陕西、山西、天津、新疆、西藏、云南、浙江",
+          "销售渠道": "线下、线上、短信渠道",
+          "上线日期": "2026年6月15日",
+          "下线日期": "2028年12月31日",
+          "有效期限": "有效期3年，如双方在有效期届满前无异议，有效期自动续展，每次续展3年。",
+          "在网要求": "无",
+          "退订方式": "中国移动APP，10086，营业厅",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "",
+          "超出资费说明": "",
+          "其他服务内容": "产品订购后立即生效，含30条北斗短信和天通卫星2分钟国内（不含中国港澳台地区）主被叫通话，赠送北斗守护月包。超出资费，北斗短信：2元/条；天通语音资费:拨打国内电话：9元/分钟，拨打中国港澳台地区电话：9元/分钟，拨打国际长途：20元/分钟，拨打国际卫星电话：50元/分钟，国内接听：9元/分钟,天通卫星短信5元/条。支持退订，退订立即失效。赠送北斗守护月包随双星融合月包同步失效。",
+          "其他说明": ""
+        }
+      }
+    },
+    "anhui": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "beijing": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "chongqing": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "fujian": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "gansu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guangdong": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guangxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guizhou": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hainan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hebei": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "heilongjiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "henan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hubei": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hunan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "jiangsu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "jiangxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "jilin": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "liaoning": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "neimenggu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "ningxia": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "qinghai": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shaanxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shandong": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shanghai": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shanxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "sichuan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "tianjin": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "xinjiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "xizang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "yunnan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "zhejiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    }
   }
 ]
