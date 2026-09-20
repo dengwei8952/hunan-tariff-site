@@ -95406,5 +95406,390 @@
       "removed_names": [],
       "modified_names": []
     }
+  },
+  {
+    "ts": "2026-09-20 20:54:34",
+    "quanguo": {
+      "added": 0,
+      "removed": 0,
+      "modified": 1,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": [
+        "移动高清-咪咕游戏钻石会员包月20元"
+      ],
+      "modified_details": {
+        "移动高清-咪咕游戏钻石会员包月20元": [
+          {
+            "field": "下线日期",
+            "from": "2027年12月31日",
+            "to": "2026年9月20日"
+          }
+        ]
+      },
+      "modified_before": {
+        "移动高清-咪咕游戏钻石会员包月20元": {
+          "资费标准": "20元/月",
+          "方案编号": "25JT212812",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "全网用户（不含港澳台）",
+          "适用地区": "安徽、北京、重庆、福建、广东、甘肃、广西、贵州、河南、湖北、河北、海南、黑龙江、湖南、吉林、江苏、江西、辽宁、内蒙古、青海、山东、上海、陕西、山西、天津、新疆、西藏、云南、浙江",
+          "销售渠道": "线下及线上渠道（根据各省实际情况）",
+          "上线日期": "2022年11月12日",
+          "下线日期": "2027年12月31日",
+          "有效期限": "有效期3年（36个自然月），如双方在有效期届满前无异议，有效期自动续展，每次续展3年。",
+          "在网要求": "无",
+          "退订方式": "1、用户可通过营业厅、中国移动掌厅等渠道进行业务订购/退订\n2、中国移动APP、10086",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "每月可享云游戏时长、会员优先排队、云端游戏存档、会员身份标识等权益。以上权益与会员身份同步，当会员身份失效，权益将同步失效。产品具体办理请根据当地移动公司的实际情况为准，适用范围和办理方式请详询号码归属地10086。",
+          "超出资费说明": "",
+          "其他服务内容": "每月可享云游戏时长、会员优先排队、云端游戏存档、会员身份标识等权益。以上权益与会员身份同步，当会员身份失效，权益将同步失效。产品具体办理请根据当地移动公司的实际情况为准，适用范围和办理方式请详询号码归属地10086。",
+          "其他说明": ""
+        }
+      },
+      "modified_after": {
+        "移动高清-咪咕游戏钻石会员包月20元": {
+          "资费标准": "20元/月",
+          "方案编号": "25JT212812",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "全网用户（不含港澳台）",
+          "适用地区": "安徽、北京、重庆、福建、广东、甘肃、广西、贵州、河南、湖北、河北、海南、黑龙江、湖南、吉林、江苏、江西、辽宁、内蒙古、青海、山东、上海、陕西、山西、天津、新疆、西藏、云南、浙江",
+          "销售渠道": "线下及线上渠道（根据各省实际情况）",
+          "上线日期": "2022年11月12日",
+          "下线日期": "2026年9月20日",
+          "有效期限": "有效期3年（36个自然月），如双方在有效期届满前无异议，有效期自动续展，每次续展3年。",
+          "在网要求": "无",
+          "退订方式": "1、用户可通过营业厅、中国移动掌厅等渠道进行业务订购/退订\n2、中国移动APP、10086",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "每月可享云游戏时长、会员优先排队、云端游戏存档、会员身份标识等权益。以上权益与会员身份同步，当会员身份失效，权益将同步失效。产品具体办理请根据当地移动公司的实际情况为准，适用范围和办理方式请详询号码归属地10086。",
+          "超出资费说明": "",
+          "其他服务内容": "每月可享云游戏时长、会员优先排队、云端游戏存档、会员身份标识等权益。以上权益与会员身份同步，当会员身份失效，权益将同步失效。产品具体办理请根据当地移动公司的实际情况为准，适用范围和办理方式请详询号码归属地10086。",
+          "其他说明": ""
+        }
+      }
+    },
+    "anhui": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "beijing": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "chongqing": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "fujian": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "gansu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guangdong": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guangxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guizhou": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hainan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hebei": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "heilongjiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "henan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hubei": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hunan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 1,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": [
+        "0元千兆提速包(免费体验6个月)"
+      ],
+      "modified_details": {
+        "0元千兆提速包(免费体验6个月)": [
+          {
+            "field": "下线日期",
+            "from": "2026年9月30日",
+            "to": "2026年12月31日"
+          }
+        ]
+      },
+      "modified_before": {
+        "0元千兆提速包(免费体验6个月)": {
+          "资费标准": "0元/月",
+          "方案编号": "26HN200783",
+          "资费类型": "营销活动",
+          "归属": "政企资费",
+          "适用范围": "仅限与湖南移动开展合作的政企集团单位成员客户办理",
+          "适用地区": "长沙、株洲、岳阳、湘潭、衡阳、郴州、常德、益阳、娄底、邵阳、湘西、张家界、怀化、永州",
+          "销售渠道": "线下",
+          "上线日期": "2026年8月18日",
+          "下线日期": "2026年9月30日",
+          "有效期限": "6个月",
+          "在网要求": "无",
+          "退订方式": "线下营业厅、客服热线",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "活动期间网速提升至1000M",
+          "超出资费说明": "",
+          "其他服务内容": "活动期间资费0元/月，优惠期6个月，到期自动终止，不可重复办理",
+          "其他说明": ""
+        }
+      },
+      "modified_after": {
+        "0元千兆提速包(免费体验6个月)": {
+          "资费标准": "0元/月",
+          "方案编号": "26HN200783",
+          "资费类型": "营销活动",
+          "归属": "政企资费",
+          "适用范围": "仅限与湖南移动开展合作的政企集团单位成员客户办理",
+          "适用地区": "长沙、株洲、岳阳、湘潭、衡阳、郴州、常德、益阳、娄底、邵阳、湘西、张家界、怀化、永州",
+          "销售渠道": "线下",
+          "上线日期": "2026年8月18日",
+          "下线日期": "2026年12月31日",
+          "有效期限": "6个月",
+          "在网要求": "无",
+          "退订方式": "线下营业厅、客服热线",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "活动期间网速提升至1000M",
+          "超出资费说明": "",
+          "其他服务内容": "活动期间资费0元/月，优惠期6个月，到期自动终止，不可重复办理",
+          "其他说明": ""
+        }
+      }
+    },
+    "jiangsu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "jiangxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "jilin": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "liaoning": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "neimenggu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "ningxia": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "qinghai": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shaanxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shandong": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shanghai": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shanxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "sichuan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "tianjin": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "xinjiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "xizang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "yunnan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "zhejiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    }
   }
 ]
