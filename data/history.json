@@ -95791,5 +95791,367 @@
       "removed_names": [],
       "modified_names": []
     }
+  },
+  {
+    "ts": "2026-09-21 14:59:07",
+    "quanguo": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "anhui": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "beijing": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "chongqing": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "fujian": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "gansu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guangdong": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guangxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "guizhou": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hainan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hebei": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "heilongjiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "henan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hubei": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "hunan": {
+      "added": 4,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [
+        "AI漫剧畅享会员",
+        "AI漫剧原创会员",
+        "漫剧体育畅看会员",
+        "漫剧体育畅享会员"
+      ],
+      "removed_names": [],
+      "modified_names": [],
+      "added_details": {
+        "AI漫剧畅享会员": {
+          "资费标准": "18元/月",
+          "方案编号": "26HN200902",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "湖南省用户",
+          "适用地区": "长沙、株洲、湘潭、岳阳、衡阳、郴州、常德、益阳、娄底、邵阳、湘西、张家界、怀化、永州",
+          "销售渠道": "线上及线下渠道",
+          "上线日期": "2026年8月20日",
+          "下线日期": "2027年12月31日",
+          "有效期限": "自订购之日起，业务有效期为一年，在有效期满时，如任何一方未向对方提出终止或变更要求，自动顺延一年，以此类推，如有特殊约定除外。",
+          "在网要求": "无",
+          "退订方式": "线下营业厅,客服热线,中国移动APP",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "享咪咕悦看全库精品漫剧无广告畅看（少数版权除外）权益。",
+          "超出资费说明": "",
+          "其他服务内容": "1、办理规则：当月订购，立即生效，当月不可重复办理；2、退订规则：当月退订，立即生效，包内权益同步退订，次月不再收取费用；",
+          "其他说明": ""
+        },
+        "AI漫剧原创会员": {
+          "资费标准": "5元/月",
+          "方案编号": "26HN200901",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "湖南省用户",
+          "适用地区": "长沙、株洲、湘潭、岳阳、衡阳、郴州、常德、益阳、娄底、邵阳、湘西、张家界、怀化、永州",
+          "销售渠道": "线上及线下渠道",
+          "上线日期": "2026年8月20日",
+          "下线日期": "2027年12月31日",
+          "有效期限": "自订购之日起，业务有效期为一年，在有效期满时，如任何一方未向对方提出终止或变更要求，自动顺延一年，以此类推，如有特殊约定除外。",
+          "在网要求": "无",
+          "退订方式": "线下营业厅,客服热线,中国移动APP",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "享咪咕悦看海量精品漫剧无广告畅看权益。",
+          "超出资费说明": "",
+          "其他服务内容": "1、办理规则：当月订购，立即生效，当月不可重复办理；2、退订规则：当月退订，立即生效，包内权益同步退订，次月不再收取费用；",
+          "其他说明": ""
+        },
+        "漫剧体育畅看会员": {
+          "资费标准": "30元/月",
+          "方案编号": "26HN200904",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "湖南省用户",
+          "适用地区": "长沙、株洲、湘潭、岳阳、衡阳、郴州、常德、益阳、娄底、邵阳、湘西、张家界、怀化、永州",
+          "销售渠道": "线上及线下渠道",
+          "上线日期": "2026年8月20日",
+          "下线日期": "2027年12月31日",
+          "有效期限": "自订购之日起，业务有效期为一年，在有效期满时，如任何一方未向对方提出终止或变更要求，自动顺延一年，以此类推，如有特殊约定除外。",
+          "在网要求": "无",
+          "退订方式": "线下营业厅,客服热线,中国移动APP",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "享咪咕悦看全库精品漫剧无广告畅看（少数版权除外）、咪咕视频全站网球赛事直播及回看（包含但不限于澳网、美网、中网等系列赛事）、视频彩铃随心换权益。",
+          "超出资费说明": "",
+          "其他服务内容": "1、办理规则：当月订购，立即生效，当月不可重复办理；2、退订规则：当月退订，立即生效，包内及赠送权益同步退订，次月不再收取费用；3、办理本产品将同步加赠5GB全国通用流量",
+          "其他说明": "办理本产品同开获赠的流量促销权益(产品名称:全国通用流量5GB促销，备案编号:25HN212732)，与本产品同开同停，不支持单独办理"
+        },
+        "漫剧体育畅享会员": {
+          "资费标准": "30元/月",
+          "方案编号": "26HN200903",
+          "资费类型": "加装包",
+          "归属": "个人资费",
+          "适用范围": "湖南省用户",
+          "适用地区": "长沙、株洲、湘潭、岳阳、衡阳、郴州、常德、益阳、娄底、邵阳、湘西、张家界、怀化、永州",
+          "销售渠道": "线上及线下渠道",
+          "上线日期": "2026年8月20日",
+          "下线日期": "2027年12月31日",
+          "有效期限": "自订购之日起，业务有效期为一年，在有效期满时，如任何一方未向对方提出终止或变更要求，自动顺延一年，以此类推，如有特殊约定除外。",
+          "在网要求": "无",
+          "退订方式": "线下营业厅,客服热线,中国移动APP",
+          "违约责任": "无",
+          "国内通话": "",
+          "国内通用流量": "",
+          "定向流量": "",
+          "宽带": "",
+          "移动高清": "",
+          "权益": "享咪咕悦看全库精品漫剧无广告畅看（少数版权除外）、畅看五大联赛、中超等付费足球赛事直播及回看（以咪咕视频APP内实际版权为准）、视频彩铃随心换权益。",
+          "超出资费说明": "",
+          "其他服务内容": "1、办理规则：当月订购，立即生效，当月不可重复办理；2、退订规则：当月退订，立即生效，包内及赠送权益同步退订，次月不再收取费用；3、办理本产品将同步加赠5GB全国通用流量",
+          "其他说明": "办理本产品同开获赠的流量促销权益(产品名称:全国通用流量5GB促销，备案编号:25HN212732)，与本产品同开同停，不支持单独办理"
+        }
+      }
+    },
+    "jiangsu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "jiangxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "jilin": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "liaoning": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "neimenggu": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "ningxia": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "qinghai": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shaanxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shandong": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shanghai": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "shanxi": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "sichuan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "tianjin": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "xinjiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "xizang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "yunnan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    },
+    "zhejiang": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    }
   }
 ]
