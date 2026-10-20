@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-19 22:39:17",
+  "updated": "2026-10-20 05:20:12",
   "default": "hunan",
   "sections": [
     {
       "section": "quanguo",
       "name": "全网(全国)",
       "total": 1527,
-      "updated": "2026-10-19 22:38:49"
+      "updated": "2026-10-20 05:19:42"
     },
     {
       "section": "anhui",
@@ -90,7 +90,7 @@
       "section": "hunan",
       "name": "湖南",
       "total": 1562,
-      "updated": "2026-10-19 22:39:17"
+      "updated": "2026-10-20 05:20:12"
     },
     {
       "section": "jiangsu",
