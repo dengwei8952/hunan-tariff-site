@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-30 13:37:41",
+  "updated": "2026-10-30 22:40:34",
   "default": "hunan",
   "sections": [
     {
       "section": "quanguo",
       "name": "全网(全国)",
-      "total": 1548,
-      "updated": "2026-10-30 13:37:00"
+      "total": 1547,
+      "updated": "2026-10-30 22:40:06"
     },
     {
       "section": "anhui",
@@ -90,7 +90,7 @@
       "section": "hunan",
       "name": "湖南",
       "total": 1555,
-      "updated": "2026-10-30 13:37:41"
+      "updated": "2026-10-30 22:40:34"
     },
     {
       "section": "jiangsu",
@@ -195,7 +195,7 @@
       "updated": "2026-09-12 15:51:00"
     }
   ],
-  "quanguo_total": 1548,
+  "quanguo_total": 1547,
   "prov_total": 42769,
   "prov_dist": {
     "个人资费": {
@@ -675,9 +675,9 @@
   "hunan_total": 1555,
   "dist": {
     "个人资费": {
-      "套餐": 58,
       "营销活动": 6,
-      "加装包": 1482
+      "套餐": 58,
+      "加装包": 1481
     },
     "政企资费": {
       "加装包": 2
